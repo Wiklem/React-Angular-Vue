@@ -1,0 +1,25 @@
+.buttonOslo {
+    background-color: #4EB882;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.buttonKristiansand {
+    background-color: #35495E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.temp {
+    font-size: 10vh;
+}

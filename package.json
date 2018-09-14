@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "vue": "cd vue-app && yarn serve",
+    "angular": "cd angular-app && yarn start",
+    "react": "cd react-app && yarn start",
+    "install_all": "cd react-app && yarn install && cd ../angular-app && yarn install && cd ../vue-app && yarn install"
+  }
+}
